@@ -9,7 +9,7 @@ end
 
 def summon_captain_planet(elements)
   # Your code here
-  elements.map 
+  elements.map {|n| 
 end
 
 def long_planeteer_calls# code an argument here
