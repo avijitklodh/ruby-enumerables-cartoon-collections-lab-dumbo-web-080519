@@ -14,8 +14,7 @@ end
 
 def long_planeteer_calls(call)# code an argument here
   # Your code here
-  call.map {|name| if name.size > 4 
-  return true 
+  call.map {|name| if name.size > 4
 }
 end
 
