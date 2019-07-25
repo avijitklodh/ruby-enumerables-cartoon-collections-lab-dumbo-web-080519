@@ -16,6 +16,7 @@ def summon_captain_planet(elements)
    a << puts "#{c}" + "!"
    i += 1 
   end
+  a
 end
 
 def long_planeteer_calls# code an argument here
