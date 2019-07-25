@@ -13,6 +13,7 @@ def summon_captain_planet(elements)
   i=0 
   while i < elements.length do 
    c = elements[i].capitalize
+   a.push
    puts "#{c}" + "!"
    i += 1 
   end
