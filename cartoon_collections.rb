@@ -15,9 +15,7 @@ def summon_captain_planet(elements)
    c = elements[i].capitalize
    puts "#{c}" + "!"
    i += 1 
-   a.push
   end
-  a
 end
 
 def long_planeteer_calls# code an argument here
