@@ -1,6 +1,6 @@
 def roll_call_dwarves (names)
   # Your code here
-  %w(names)
+  %w(names).each_with_index 
   puts " #{names [i]} #{names} "
 end
 
