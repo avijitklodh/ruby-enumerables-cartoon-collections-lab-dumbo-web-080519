@@ -8,8 +8,13 @@ def roll_call_dwarves (names)
 
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(elements)
   # Your code here
+  a = []
+  i=0 
+  while i < elements.length do 
+    puts elements.capitalize
+  
 end
 
 def long_planeteer_calls# code an argument here
