@@ -2,10 +2,9 @@ def roll_call_dwarves (names)
   # Your code here
  i = 0 
  while i < names.length do 
-   puts "#{names.index}" + "." + "#{names}"
+   puts "#{names.index}" + "." + "#{names[i]}"
    i += 1 
  end
-
 end
 
 def summon_captain_planet# code an argument here
