@@ -1,6 +1,6 @@
 def roll_call_dwarves (names)
   # Your code here
-
+puts 
 end
 
 def summon_captain_planet(elements)
