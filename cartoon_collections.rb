@@ -9,6 +9,13 @@ end
 
 def summon_captain_planet# code an argument here
   # Your code here
+  a = []
+  i=0 
+  while i < elements.length do 
+    a << "#{elements.capitalize}" + "!"
+   i += 1 
+  end
+  a
 end
 
 def long_planeteer_calls# code an argument here
