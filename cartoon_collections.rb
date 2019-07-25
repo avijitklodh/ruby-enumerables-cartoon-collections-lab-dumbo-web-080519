@@ -20,6 +20,6 @@ end
 def find_the_cheese (food) # code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-    food.detect {|i| i == "cheddar"}
+    food.detect {|i| i == "cheddar" || i == "gouda" || i == "camembert"}
     
 end
