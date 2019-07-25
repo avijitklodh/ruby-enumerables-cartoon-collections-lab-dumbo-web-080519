@@ -1,7 +1,10 @@
 def roll_call_dwarves (names)
   # Your code here
-%w[names].each_with_index {|o,i|
-puts "#{i}" + "." + "#{o}"}
+ i = 0 
+ while i < names.length do 
+   puts "#{names.index}" + "." + "#{names[i]}"
+   i += 1 
+ end
 end
 
 def summon_captain_planet(elements)
