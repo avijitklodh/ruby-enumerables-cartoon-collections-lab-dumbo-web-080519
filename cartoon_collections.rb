@@ -1,6 +1,6 @@
 def roll_call_dwarves (names)
   # Your code here
-%w[names].each_with_index {
+%w[names].each_with_index {|o,i|
 end
 
 def summon_captain_planet(elements)
