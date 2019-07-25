@@ -1,6 +1,6 @@
 def roll_call_dwarves (names)
   # Your code here
-  
+  %w{names}
   puts " #{names [i]} #{names} "
 end
 
