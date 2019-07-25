@@ -1,8 +1,6 @@
 def roll_call_dwarves (names)
   # Your code here
- array = %w(names)
- i=0
- puts  array[i]
+ 
 end
 
 def summon_captain_planet# code an argument here
